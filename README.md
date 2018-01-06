@@ -11,6 +11,10 @@
 * [애플 공식 문서 따라하기](https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/BuildABasicUI.html#//apple_ref/doc/uid/TP40015214-CH5-SW1)
 * [Stanford iOS](https://www.inflearn.com/course/stanford-ios-한글자막-강의/)
 
+### 스토리보드 이해하기
+* [레이웬더리치 Storyboards Tutorial part 1](https://www.raywenderlich.com/160521/storyboards-tutorial-ios-11-part-1)
+* [레이웬더리치 Storyboards Tutorial part 2](https://www.raywenderlich.com/160519/storyboards-tutorial-ios-10-getting-started-part-2)
+
 ### 추천책
 * [아론힐리가스의 iOS 프로그래밍](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&barcode=9791186697153)
 * [iOS 앱 개발자를 위한 Swift4](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788960882119&orderClick=LAG&Kc=)
