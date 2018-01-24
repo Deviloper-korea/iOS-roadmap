@@ -1,6 +1,6 @@
 # iOS 로드맵
 
-해당 파일은 iOS 공부에 도움이 되는 것이라면 누구나 업데이트 할 수 있습니다.
+해당 저장소는 iOS 공부에 도움이 되는 것이라면 누구나 업데이트 할 수 있습니다.
 
 ### Swift 언어에 익숙해지기
 * [Swift 역사](http://terms.naver.com/entry.nhn?docId=3580556&cid=59088&categoryId=59096)
